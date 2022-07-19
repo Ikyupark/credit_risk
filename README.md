@@ -46,5 +46,6 @@ Balanced accuracy score: 93.1%
 Precision: 9% for high and 100% for low
 Recall:92% for high and 94% for low 
 
-## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-### The results show that all models have higher than 90% in precision for low risk. The best machine learning model would be Easy Ensemble Adaboost Classifier since it gives the highest precision, recall and accuracy. 
+## Summary
+
+The results show that all models have higher than 90% in precision for low risk. The best machine learning model would be Easy Ensemble Adaboost Classifier since it gives the highest precision, recall and accuracy. 
